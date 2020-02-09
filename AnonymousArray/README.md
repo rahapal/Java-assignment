@@ -1,4 +1,5 @@
-Anonymous Array in Java
+    Anonymous Array in Java
+
 An array without name is known as anonymous array in java. As the array do not have any name so it can be used only once. It is passed as an argument of method. Anonymous array is created and initialized in the same line.
 
 
