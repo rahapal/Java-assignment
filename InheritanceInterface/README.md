@@ -6,7 +6,7 @@ Inheritance in interface:
     Java Interface also represents the IS-A relationship.
     It cannot be instantiated just like the abstract class.
     
-    Example:
+  Example:
     
     
             import java.io.*; 
