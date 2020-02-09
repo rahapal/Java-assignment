@@ -1,13 +1,14 @@
-     Default Method Interface
-Default methods enable us to add new functionality to the interfaces of your libraries and ensure binary compatibility with code written for older versions of those interfaces.
+  Default Method Interface
+  
+         Default methods enable us to add new functionality to the interfaces of your libraries and ensure binary                      compatibility with code written for older versions of those interfaces.
 
-In a typical design based on abstractions, where an interface has one or multiple implementations, if one or more methods are added to the interface, all the implementations will be forced to implement them too. Otherwise, the design will just break down.
+          In a typical design based on abstractions, where an interface has one or multiple implementations, if one or more methods are added to the interface, all the implementations will be forced to implement them too. Otherwise, the design will just break down.
 
-Default interface methods are an efficient way to deal with this issue. They allow us to add new methods to an interface that are automatically available in the implementations. Thus, there's no need to modify the implementing classes.
+          Default interface methods are an efficient way to deal with this issue. They allow us to add new methods to an interface that are automatically available in the implementations. Thus, there's no need to modify the implementing classes.
 
-In this way, backward compatibility is neatly preserved without having to refactor the implementers.
+          In this way, backward compatibility is neatly preserved without having to refactor the implementers.
 
-   Example
+  Example
    
            // A simple program to Test Interface default 
         // methods in java 
@@ -39,4 +40,4 @@ In this way, backward compatibility is neatly preserved without having to refact
             // default method executed 
             d.show(); 
           } 
-}
+         }
