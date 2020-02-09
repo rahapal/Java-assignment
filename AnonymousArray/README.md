@@ -36,6 +36,7 @@ An array without name is known as anonymous array in java. As the array do not
             System.out.println("The sum is:" + total); 
         } 
     } 
-  
+    
     output:
-The sum is 6
+    
+   The sum is 6
