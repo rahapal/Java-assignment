@@ -52,5 +52,5 @@ Inheritance in interface:
  
  output:
  
-     Welcome: inside the method m1
+    Welcome: inside the method m1
     Welcome: inside the method m2
